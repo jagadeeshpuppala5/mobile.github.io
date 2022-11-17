@@ -1,0 +1,35 @@
+.bgimg{
+    background-image: url("https://img.freepik.com/free-photo/closeup-male-hands-holding-cellphone-class-man-using-mobile-smartphone-boy-touching-screen-his-smarthone-blurred-background-horizontal_1391-559.jpg?size=626&ext=jpg&ga=GA1.2.1859394032.1668591111&semt=sph");
+    height:150vh;
+    background-size: cover;
+}
+.mobilehead{
+    color:white;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:30px;
+    font-weight:bold;
+    padding:25px;
+}
+.layoutcard{
+    background-color: white;
+    border-radius: 8px;
+    padding:18px;
+    margin:15px;
+    cursor: pointer;
+}
+.brandscont{
+    color:#041836;
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:30px;
+    font-weight:bold;
+}
+.brandspara{
+    color:#6c6b70;  
+    font-family:Arial, Helvetica, sans-serif;
+    font-size:15px;  
+}
+.brandimg{
+    width:100px;
+    height:100px;
+}
+
